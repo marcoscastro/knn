@@ -7,7 +7,7 @@ k-NN = k vizinhos mais próximos (k-nearest neighbors).
 
 A implementação foi feita em C++ com o intuito didático para o Curso C++ para iniciantes.
 
-Playlist: https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV
+Playlist do curso: https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV
 
 O arquivo dataset.txt contém os dados do famoso dataset Iris utilizado bastante para exemplificar o uso de algoritmos para aprendizado de máquina.
 
