@@ -12,3 +12,5 @@ Playlist do curso: https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG
 O arquivo dataset.txt contém os dados do famoso dataset Iris utilizado bastante para exemplificar o uso de algoritmos para aprendizado de máquina.
 
 Mais informações sobre o k-NN: https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+
+Exemplo de execução: executavel < dataset.txt
