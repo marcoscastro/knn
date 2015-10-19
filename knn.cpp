@@ -116,6 +116,8 @@ string classificarAmostra(vector<Individuo>& individuos,
 
 	for(it = dist_individuos.begin(); it != dist_individuos.end(); it++)
 	{
+		if(contK == K) break;
+		
 		string classe = individuos[it->second].getClasse();
 
 		if(classe == "Iris-setosa")
@@ -125,7 +127,6 @@ string classificarAmostra(vector<Individuo>& individuos,
 		else
 			cont_classes[2]++;
 
-		if(contK >= K) break;
 		contK++;
 	}
 	
