@@ -125,7 +125,7 @@ string classificarAmostra(vector<Individuo>& individuos,
 		else
 			cont_classes[2]++;
 
-		if(contK > K) break;
+		if(contK >= K) break;
 		contK++;
 	}
 	
